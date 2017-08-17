@@ -9,6 +9,11 @@ XUtils3框架，Gson写
 v1版本HTTP服务器地址为：http://[IP地址尚未确定]:8080/WeatherWeb/v1 ,建议写在配置文件,方便修改
 v1版本WS服务器地址为：ws://[IP地址尚未确定]:8080/WeatherWeb/v1 
 
+## 项目的相关说明：
+#### 作者：hupeng(hupeng@imudges.com)
+#### 完成时间：2017-08-10 -- 2017-08-17
+
+
 ## HTTP协议接口
 ### 普通登录
 #### 地址：/login/username/[用户的的用户名]/password/[用户的密码]
