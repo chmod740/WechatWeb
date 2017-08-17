@@ -14,7 +14,7 @@ v1版本WS服务器地址为：ws://[IP地址尚未确定]:8080/WeatherWeb/v1
 ## 项目的相关说明：
 #### 作者：hupeng(hupeng@imudges.com)
 #### 完成时间：2017-08-10 -- 2017-08-17
-
+#### 本项目由[Nutz框架](http://nutzam.com/)构建
 
 ## HTTP协议接口
 ### 普通登录
