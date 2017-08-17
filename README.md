@@ -1,6 +1,8 @@
 # WechatWeb
 仿微信实现的服务器端
 
+[查看对应的客户端项目](https://github.com/imu-hupeng/WechatApp)
+
 # WechatWeb的API说明(v1)
 ## *技术概要：
 客户端推荐采用
